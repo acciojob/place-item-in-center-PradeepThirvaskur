@@ -1,6 +1,6 @@
 .holder{
     display: flex;
-	
+	position: fixed;
     background-color: blue;
     justify-content: center;
      align-items: center;
